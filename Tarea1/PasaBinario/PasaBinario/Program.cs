@@ -11,7 +11,7 @@ namespace Tarea1;
         public static void Main(string[] args)
         {
         string frase = "";
-        Console.WriteLine("El codigo corresponde a : perro ");
+        Console.WriteLine("Digite el texto a convertir: ");
         frase = Console.ReadLine();
         for (int x=0; x <frase.Length;x++)
         {
