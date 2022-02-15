@@ -1,0 +1,15 @@
+C:\Users\Steven Vega Zúñiga\source\repos\PasaBinario\PasaBinario\obj\Debug\net6.0\PasaBinario.csproj.AssemblyReference.cache
+C:\Users\Steven Vega Zúñiga\source\repos\PasaBinario\PasaBinario\obj\Debug\net6.0\PasaBinario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steven Vega Zúñiga\source\repos\PasaBinario\PasaBinario\obj\Debug\net6.0\PasaBinario.AssemblyInfoInputs.cache
+C:\Users\Steven Vega Zúñiga\source\repos\PasaBinario\PasaBinario\obj\Debug\net6.0\PasaBinario.AssemblyInfo.cs
+C:\Users\Steven Vega Zúñiga\source\repos\PasaBinario\PasaBinario\obj\Debug\net6.0\PasaBinario.csproj.CoreCompileInputs.cache
+C:\Users\Steven Vega Zúñiga\source\repos\PasaBinario\PasaBinario\bin\Debug\net6.0\PasaBinario.exe
+C:\Users\Steven Vega Zúñiga\source\repos\PasaBinario\PasaBinario\bin\Debug\net6.0\PasaBinario.deps.json
+C:\Users\Steven Vega Zúñiga\source\repos\PasaBinario\PasaBinario\bin\Debug\net6.0\PasaBinario.runtimeconfig.json
+C:\Users\Steven Vega Zúñiga\source\repos\PasaBinario\PasaBinario\bin\Debug\net6.0\PasaBinario.dll
+C:\Users\Steven Vega Zúñiga\source\repos\PasaBinario\PasaBinario\bin\Debug\net6.0\ref\PasaBinario.dll
+C:\Users\Steven Vega Zúñiga\source\repos\PasaBinario\PasaBinario\bin\Debug\net6.0\PasaBinario.pdb
+C:\Users\Steven Vega Zúñiga\source\repos\PasaBinario\PasaBinario\obj\Debug\net6.0\PasaBinario.dll
+C:\Users\Steven Vega Zúñiga\source\repos\PasaBinario\PasaBinario\obj\Debug\net6.0\ref\PasaBinario.dll
+C:\Users\Steven Vega Zúñiga\source\repos\PasaBinario\PasaBinario\obj\Debug\net6.0\PasaBinario.pdb
+C:\Users\Steven Vega Zúñiga\source\repos\PasaBinario\PasaBinario\obj\Debug\net6.0\PasaBinario.genruntimeconfig.cache
