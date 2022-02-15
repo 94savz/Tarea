@@ -1,0 +1,6 @@
+cifrado cesar
+cifrado por llave
+cifrado vigenere
+palabra inversa
+mensaje inverso
+cifrado telefonico
